@@ -27,7 +27,7 @@ BLOCK_STORAGE=ibmc-vpc-block-general-purpose
 # Credentials to access git repository
 # API Key can be created using the link --> https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
 GIT_USER_NAME=phaithoona
-GIT_API_KEY_OR_PASSWORD=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
+GIT_API_KEY_OR_PASSWORD=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
 
 # Credentials to access OpenShift Cluster
 OPENSHIFT_CLUSTER_USERNAME=xxx
